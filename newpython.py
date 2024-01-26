@@ -3,4 +3,4 @@ b=0
 for i in a:
     if isinstance(i,int):
         b+=i
-print(b)
+   
